@@ -1,5 +1,5 @@
 ## Example Config file
-baseURL: "https://pilona-cv.github.io/"
+baseURL: "https://thealphabeta.github.io/pilona-cv/"
 theme: "terminalcv"
 title: "Pilona CV"
 
@@ -92,13 +92,13 @@ params:
     # settings:
     #   useLess: true
     details:
-      name: "John Doe"
-      profession: "Unknown"
-      location: "Somewhere"
-      email: "foo@someemail.com"
-      homelink: "https://myHomePage.com"
+      name: "Norbert Wilhelmy"
+      profession: "Customer Success Specialist"
+      location: "Near You (Bad Kissingen)"
+      email: "norbert@example.com"
+      homelink: "https://thealphabeta.github.io/pilona-cv/"
       description: |
-        Here you can write something catchy about yourself
+        Passionate about Customer Success and delivering value.
 
   social:
     # settings:
