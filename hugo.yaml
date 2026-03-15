@@ -199,14 +199,20 @@ params:
     # settings:
     #   useLess: true
     details:
-      - name: English
-        color: Blue
+      - name: "Deutsch"
+        color: "green"
+        percentage: 102
+        description: "Muttersprache (Overflow)"
+      - name: "Englisch"
+        color: "blue"
         percentage: 50
-        #description:
-
-      - name: Gibberish
-        percentage: 100
-        description: pasghettipigglywiggly
+        description: "20 - 50% (Work in progress)"
+      - name: "Polnisch"
+        percentage: 40
+        description: "Basic communication"
+      - name: "Russisch"
+        percentage: 13
+        description: "Fragmentary knowledge"
 
   projects:
     # settings:
