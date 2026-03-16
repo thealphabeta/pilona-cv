@@ -166,20 +166,44 @@ params:
 
   skills:
     settings:
-      useLess: true
+      # useLess: true
     details:
-      - name: Skill 1
+      - name: "[Digital] Microsoft Office & Alts"
+        percentage: 95
+        description: "Excel-Wizardry & Collaboration-Tools"
+
+      - name: "[Digital] CMS / CRM / ERP"
+        color: "blue"
+        percentage: 88
+        description: "Salesforce, SAP, WordPress & Co."
+
+      - name: "[Digital] OS: Amiga OS"
+        color: "orange"
+        percentage: 100
+        description: "Retro-Roots & Guru Meditation"
+
+      - name: "[Digital] OS: Windows (95 - 11)"
+        percentage: 99
+        description: "From Blue Screens to Power User"
+
+      - name: "[Digital] OS: Linux (Arch/Debian)"
+        color: "cyan"
+        percentage: 85
+        description: "I use Arch (Omarchy) btw / Ubuntu / Pop!_OS"
+
+      - name: "[Mental] Freundlichkeit"
+        color: "green"
+        percentage: 100
+        description: "Standard-Modus: On"
+
+      - name: "[Mental] Stressresistenz"
+        color: "red"
         percentage: 90
-        Description: you can add a description
+        description: "Stabil bis Level 9 (Critical Load)"
 
-      - name: Skill 2
-        percentage: 30
-        #description: or you can leave it comented
-
-      - name: Skill 3
-        color: blue
-        percentage: 50
-        description: Skill names can have colors too
+      - name: "[Mental] Pragmatismus"
+        percentage: 95
+        description: "Lösungsfindung > Bürokratie"
 
   softskills:
     # settings:
